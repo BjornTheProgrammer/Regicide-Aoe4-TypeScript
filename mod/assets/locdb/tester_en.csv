@@ -1,0 +1,30 @@
+﻿ID,Pipeline,PipelineStage,Notes,TranslationNotes,Tags,Text
+1,,,Mod name.,,,tester
+2,,,Mod description.,,,tester
+3,,,,,,tester
+4,,,,,,"Each player begins with a King. The goal of this game mode is to kill all the enemy Kings. As soon as a player loses their King, that player is instantly defeated."
+5,,,,,,Age I
+6,,,,,,Age II
+7,,,,,,Age III
+8,,,,,,Age IV
+9,,,,,,Starting Age
+10,,,,,,Concealed
+11,,,,,,Revealed
+12,,,,,,Explored
+13,,,,,,Initial state of the map
+14,,,,,,Map State
+15,,,,,,Player Scores are visible when Pinned Player Information is On
+16,,,,,,Player Scores are visible when Pinned Player Information is On
+17,,,,,,Display Player Scores
+18,,,,,,Maximum Resources
+19,,,,,,Maximum
+20,,,,,,Very High Resources
+21,,,,,,Very High
+22,,,,,,Standard Resources
+23,,,,,,Standard
+24,,,,,,High Resources
+25,,,,,,High
+26,,,,,,Starting Resources
+27,,,,,,Starting Resources
+28,,,,,,Starting Conditions
+29,,,,,,Your King must survive.
